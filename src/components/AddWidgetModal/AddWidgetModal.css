@@ -1,0 +1,22 @@
+.modal-content {
+    background-color: white;
+    padding: 30px;
+    width: 500px;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  .modal-content h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .modal-content button {
+    margin-top: 15px;
+  }
+  

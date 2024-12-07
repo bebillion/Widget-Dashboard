@@ -1,0 +1,42 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Performance",
+        "widgets": [
+          {
+            "id": 101,
+            "name": "Website Traffic",
+            "content": "Track your website's daily, weekly, and monthly traffic.",
+            "visible": true
+          },
+          {
+            "id": 102,
+            "name": "Sales Conversion",
+            "content": "Monitor your conversion rates for different sales channels.",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Social Media",
+        "widgets": [
+          {
+            "id": 201,
+            "name": "Follower Growth",
+            "content": "See how your follower base is growing across platforms.",
+            "visible": true
+          },
+          {
+            "id": 202,
+            "name": "Engagement Rate",
+            "content": "Analyze the engagement on your social media posts.",
+            "visible": true
+          }
+        ]
+      }
+    ]
+  }
+
+  
